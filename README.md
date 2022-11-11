@@ -29,7 +29,7 @@ It is not only about programming, it is about maintaining good practices at all 
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=101010)]()
 [![Vue](https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=4FC08D&labelColor=101010)]()
 [![express](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=4FC08D&labelColor=101010)]()
-[![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]
+[![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
 <br />
 
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
