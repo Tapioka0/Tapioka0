@@ -1,5 +1,5 @@
 # Hello, my name is Carlos Yahir 👋
-### Freelance full-stack iOS & Android engineer
+### Freelance full-stack
 
 ![https://carlosyahircc.dev](https://cdn.discordapp.com/attachments/702212071890223204/1022690961236693043/unknown.png)
 
